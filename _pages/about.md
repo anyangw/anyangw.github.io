@@ -11,16 +11,16 @@ A postdoctoral researcher with extensive experience in developing end-to-end opt
 
 Education
 ======
-Ph.D. in Electrical Engineering, University at Buffalo, State University of New York, Buffalo, NY (Jun 2020)
-M.Eng. in Electrical Engineering, Tohoku University, Sendai, Japan (Mar 2014)
-B.Eng. in Electrical Engineering, Tohoku University, Sendai, Japan (Mar 2012)
+Ph.D. in Electrical Engineering, University at Buffalo, State University of New York, Buffalo, NY (Jun 2020)  
+M.Eng. in Electrical Engineering, Tohoku University, Sendai, Japan (Mar 2014)  
+B.Eng. in Electrical Engineering, Tohoku University, Sendai, Japan (Mar 2012)  
 
 Positions and Scientific Appointments
 ======
-Postdoctoral Research Associate, Chemical Engineering, University of Massachusetts Amherst	(Apr 2021 – Present)
-Research Assistant, Electrical Engineering, University at Buffalo (Aug 2014 – Apr 2021)
-Teaching Assistant, Electrical Engineering, University at Buffalo (Aug 2018 – Dec 2019)
-Teaching Assistant, Electrical Engineering, Tohoku University, Japan (Oct 2012 – Mar 2013)
+Postdoctoral Research Associate, Chemical Engineering, University of Massachusetts Amherst	(Apr 2021 – Present)  
+Research Assistant, Electrical Engineering, University at Buffalo (Aug 2014 – Apr 2021)  
+Teaching Assistant, Electrical Engineering, University at Buffalo (Aug 2018 – Dec 2019)  
+Teaching Assistant, Electrical Engineering, Tohoku University, Japan (Oct 2012 – Mar 2013)  
 
 Publications
 ------
