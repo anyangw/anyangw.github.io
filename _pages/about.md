@@ -24,7 +24,7 @@ Teaching Assistant, Electrical Engineering, Tohoku University, Japan (Oct 2012 �
 
 Publications
 ------
-1.	Anyang Wang*, Yingjie Hang*, Jiacheng Wang, Weirui Tan, Nianqiang Wu, "An All-in-One Microfluidic Device for Blood Plasma Separation and Fluorescence Detection of Cocaine in Whole Blood" Analytical Chemistry (2025) (*equal contribution)
+1.	Anyang Wang^, Yingjie Hang^, Jiacheng Wang, Weirui Tan, Nianqiang Wu, "An All-in-One Microfluidic Device for Blood Plasma Separation and Fluorescence Detection of Cocaine in Whole Blood" Analytical Chemistry (2025) (^equal contribution)
 2.	Anyang Wang, Yingjie Hang, Jiacheng Wang, Weirui Tan and Nianqiang Wu, “Machine Learning Assisted Light Management and Electromagnetic Field Modulation of Large-Area Plasmonic Coaxial Cylindrical Pillar/Ring Nanoarray Patterns” The Journal of Physical Chemistry C, (2024), 128, 30, 12495–12502 (Featured on the cover of a journal)
 3.	Anyang Wang, Samaneh Moghadasi Boroujeni, Philip J. Schneider, Liam B. Christie, Kyle A. Mancuso, Stelios T. Andreadis, and Kwang W. Oh. "An Integrated Centrifugal Degassed PDMS-Based Microfluidic Device for Serial Dilution." Micromachines 12, no. 5 (2021): 482.
 4.	Anyang Wang, Domin Koh, Philip Schneider, Evan Breloff, and Kwang W. Oh. "A compact, syringe-assisted, vacuum-driven micropumping device." Micromachines 10, no. 8 (2019): 543. 
